@@ -1,20 +1,9 @@
-
 grade = input("Hello please enter your grade 2nd to 4th\n:")
 
 
 if(grade == "4th"):
-	print("you have selected 4th grade")
+	print("You have selected 4th grade")
 	print("lets try some practice problems")
-
-if(grade == "3rd"):
-	print("you have selected 3rd grade")
-	print("lets try some practice problems")
-
-if(grade == "2nd"):
-	print("you have selected 2nd grade")
-	print("lets try some practice problems")
-
-
 print("x + 25 = 50 what is x?")
 
 x = 25
@@ -26,7 +15,8 @@ if(x == "25"):
 else:
 	print("Try again")
 
-print("lets try some more!!")
+print("lets try some more")
+
 print("if x = 500 what is x + 500")
 x = 1000
 
